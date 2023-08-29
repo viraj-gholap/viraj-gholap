@@ -1,6 +1,6 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQELu1x8SFOYuA/profile-displaybackgroundimage-shrink_350_1400/0/1685302344844?e=1698883200&v=beta&t=DTbsHQ70kVb0NTa8Gb4cGNkgPr8E2l4VSws4_LykED8)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQELu1x8SFOYuA/profile-displaybackgroundimage-shrink_350_1400/0/1685302344844?e=1698883200&v=beta&t=DTbsHQ70kVb0NTa8Gb4cGNkgPr8E2l4VSws4_LykED8)
 <h1 align="center">Hi 👋, I'm Viraj Gholap</h1>
-<h3 align="center">B.Tech in Information Technology</h3>
+<!-- <h3 align="center">B.Tech in Information Technology</h3> -->
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viraj-gholap&label=Profile%20views&color=0e75b6&style=flat" alt="viraj-gholap" /> </p>
