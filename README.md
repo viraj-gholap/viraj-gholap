@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Viraj Gholap</h1>  
 <h3 align="center">B.Tech in Information Technology | Data Science Enthusiast</h3>  
 
+<div style="background-image: url('https://media.licdn.com/dms/image/v2/D4D16AQGVEEsYKroMpA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725807356506?e=1733356800&v=beta&t=ZSn6eVefARKbNIVI5gbZhwlt9aOR2VhoLXA9wYqe81E'); background-size: cover; padding: 20px; border-radius: 10px;">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viraj-gholap&label=Profile%20views&color=0e75b6&style=flat" alt="viraj-gholap" /> </p>  
 
 - 👨‍💻 Explore my projects: [Portfolio](https://virajgholap.pages.dev/)  
 - 📫 Reach me at: **virajgholap9@gmail.com**  
 - 📄 View my resume: [Resume](https://virajgholap.pages.dev/assets/docs/your-cv.pdf)  
+
+</div>
 
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
