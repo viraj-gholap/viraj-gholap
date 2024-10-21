@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viraj-gholap&label=Profile%20views&color=0e75b6&style=flat" alt="viraj-gholap" /> </p>  
 
-- 👨‍💻 Explore my projects: [Portfolio](https://virajgholap.pages.dev/)  
 - 📫 Reach me at: **virajgholap9@gmail.com** 
 
 </div>
