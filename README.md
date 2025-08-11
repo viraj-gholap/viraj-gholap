@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viraj-gholap&label=Profile%20views&color=0e75b6&style=flat" alt="viraj-gholap" /> </p>  
 
-- 📫 Reach me at: **virajgholap@gmail.com** 
+- 📫 Reach me at: **virajgholap6@gmail.com** 
 
 </div>
 
